@@ -1,0 +1,225 @@
+
+======== KITT ICMMS MAIN MENU ========
+1. Display all cars
+2. Add a new car
+3. Update a car record
+4. Delete a car record
+5. Search a car by ID
+6. Sort cars by price (ascending)
+7. Sort cars by ID (descending)
+8. Generate inventory summary report
+9. Save and Exit
+======================================
+Choose an option: ----------------------------------------------------------------
+ID        Name                Category            Price
+----------------------------------------------------------------
+C101      AutoDrive X         Autonomous       75000.00
+C102      SmartAI Pro         AI-Enabled       68000.00
+C103      RoboCar Z           Electric         82000.00
+
+======== KITT ICMMS MAIN MENU ========
+1. Display all cars
+2. Add a new car
+3. Update a car record
+4. Delete a car record
+5. Search a car by ID
+6. Sort cars by price (ascending)
+7. Sort cars by ID (descending)
+8. Generate inventory summary report
+9. Save and Exit
+======================================
+Choose an option: Enter Car ID: Enter Car Name: Enter Category (e.g. Autonomous, AI-Enabled, Electric): Enter Price: Car added successfully.
+
+======== KITT ICMMS MAIN MENU ========
+1. Display all cars
+2. Add a new car
+3. Update a car record
+4. Delete a car record
+5. Search a car by ID
+6. Sort cars by price (ascending)
+7. Sort cars by ID (descending)
+8. Generate inventory summary report
+9. Save and Exit
+======================================
+Choose an option: Enter Car ID: Invalid Car ID. Use letters followed by digits, e.g. C101.
+
+======== KITT ICMMS MAIN MENU ========
+1. Display all cars
+2. Add a new car
+3. Update a car record
+4. Delete a car record
+5. Search a car by ID
+6. Sort cars by price (ascending)
+7. Sort cars by ID (descending)
+8. Generate inventory summary report
+9. Save and Exit
+======================================
+Choose an option: Enter Car ID: Enter Car Name: Enter Category (e.g. Autonomous, AI-Enabled, Electric): Enter Price: Price must be a positive number.
+Enter Price: Car added successfully.
+
+======== KITT ICMMS MAIN MENU ========
+1. Display all cars
+2. Add a new car
+3. Update a car record
+4. Delete a car record
+5. Search a car by ID
+6. Sort cars by price (ascending)
+7. Sort cars by ID (descending)
+8. Generate inventory summary report
+9. Save and Exit
+======================================
+Choose an option: Enter Car ID: Enter Car Name: Enter Category (e.g. Autonomous, AI-Enabled, Electric): Invalid category. Use letters only (no numbers or symbols).
+Enter Category (e.g. Autonomous, AI-Enabled, Electric): Enter Price: Car added successfully.
+
+======== KITT ICMMS MAIN MENU ========
+1. Display all cars
+2. Add a new car
+3. Update a car record
+4. Delete a car record
+5. Search a car by ID
+6. Sort cars by price (ascending)
+7. Sort cars by ID (descending)
+8. Generate inventory summary report
+9. Save and Exit
+======================================
+Choose an option: Enter Car ID: Car ID already exists. Please use a different ID.
+
+======== KITT ICMMS MAIN MENU ========
+1. Display all cars
+2. Add a new car
+3. Update a car record
+4. Delete a car record
+5. Search a car by ID
+6. Sort cars by price (ascending)
+7. Sort cars by ID (descending)
+8. Generate inventory summary report
+9. Save and Exit
+======================================
+Choose an option: Enter Car ID to search: ID: C101, Name: AutoDrive X, Category: Autonomous, Price: 75000
+
+======== KITT ICMMS MAIN MENU ========
+1. Display all cars
+2. Add a new car
+3. Update a car record
+4. Delete a car record
+5. Search a car by ID
+6. Sort cars by price (ascending)
+7. Sort cars by ID (descending)
+8. Generate inventory summary report
+9. Save and Exit
+======================================
+Choose an option: Enter Car ID to search: Car not found.
+
+======== KITT ICMMS MAIN MENU ========
+1. Display all cars
+2. Add a new car
+3. Update a car record
+4. Delete a car record
+5. Search a car by ID
+6. Sort cars by price (ascending)
+7. Sort cars by ID (descending)
+8. Generate inventory summary report
+9. Save and Exit
+======================================
+Choose an option: ----------------------------------------------------------------
+ID        Name                Category            Price
+----------------------------------------------------------------
+C106      MiniCar             Hybrid           30000.00
+C104      EcoCar S            Electric         45000.00
+C105      Truck X             Autonomous       50000.00
+C102      SmartAI Pro         AI-Enabled       68000.00
+C101      AutoDrive X         Autonomous       75000.00
+C103      RoboCar Z           Electric         82000.00
+
+======== KITT ICMMS MAIN MENU ========
+1. Display all cars
+2. Add a new car
+3. Update a car record
+4. Delete a car record
+5. Search a car by ID
+6. Sort cars by price (ascending)
+7. Sort cars by ID (descending)
+8. Generate inventory summary report
+9. Save and Exit
+======================================
+Choose an option: ----------------------------------------------------------------
+ID        Name                Category            Price
+----------------------------------------------------------------
+C106      MiniCar             Hybrid           30000.00
+C105      Truck X             Autonomous       50000.00
+C104      EcoCar S            Electric         45000.00
+C103      RoboCar Z           Electric         82000.00
+C102      SmartAI Pro         AI-Enabled       68000.00
+C101      AutoDrive X         Autonomous       75000.00
+
+======== KITT ICMMS MAIN MENU ========
+1. Display all cars
+2. Add a new car
+3. Update a car record
+4. Delete a car record
+5. Search a car by ID
+6. Sort cars by price (ascending)
+7. Sort cars by ID (descending)
+8. Generate inventory summary report
+9. Save and Exit
+======================================
+Choose an option: Enter Car ID to update: Current name: Truck X. New name (press Enter to keep): Current category: Autonomous. New category (press Enter to keep): Current price: 50000.0. Update price? (y/n): Enter Price: Car record updated successfully.
+
+======== KITT ICMMS MAIN MENU ========
+1. Display all cars
+2. Add a new car
+3. Update a car record
+4. Delete a car record
+5. Search a car by ID
+6. Sort cars by price (ascending)
+7. Sort cars by ID (descending)
+8. Generate inventory summary report
+9. Save and Exit
+======================================
+Choose an option: Enter Car ID to delete: Car record deleted successfully.
+
+======== KITT ICMMS MAIN MENU ========
+1. Display all cars
+2. Add a new car
+3. Update a car record
+4. Delete a car record
+5. Search a car by ID
+6. Sort cars by price (ascending)
+7. Sort cars by ID (descending)
+8. Generate inventory summary report
+9. Save and Exit
+======================================
+Choose an option: 
+========== INVENTORY SUMMARY REPORT ==========
+Total number of cars:          5
+Total inventory value:         $322,000.00
+Average price:                 $64,400.00
+Cheapest car:                  EcoCar S ($45,000.00)
+Most expensive car:            RoboCar Z ($82,000.00)
+==============================================
+
+======== KITT ICMMS MAIN MENU ========
+1. Display all cars
+2. Add a new car
+3. Update a car record
+4. Delete a car record
+5. Search a car by ID
+6. Sort cars by price (ascending)
+7. Sort cars by ID (descending)
+8. Generate inventory summary report
+9. Save and Exit
+======================================
+Choose an option: Invalid option. Please choose a number from 1 to 9.
+
+======== KITT ICMMS MAIN MENU ========
+1. Display all cars
+2. Add a new car
+3. Update a car record
+4. Delete a car record
+5. Search a car by ID
+6. Sort cars by price (ascending)
+7. Sort cars by ID (descending)
+8. Generate inventory summary report
+9. Save and Exit
+======================================
+Choose an option: All records saved. Thank you for using KITT ICMMS. Goodbye!

@@ -1,0 +1,20 @@
+[
+    {
+        "id": "C101",
+        "name": "AutoDrive X",
+        "category": "Autonomous",
+        "price": 75000
+    },
+    {
+        "id": "C102",
+        "name": "SmartAI Pro",
+        "category": "AI-Enabled",
+        "price": 68000
+    },
+    {
+        "id": "C103",
+        "name": "RoboCar Z",
+        "category": "Electric",
+        "price": 82000
+    }
+]
